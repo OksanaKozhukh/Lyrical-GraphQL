@@ -1,0 +1,21 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Song 1"
+    }
+  ],
+  "lyrics": [
+    {
+      "content": "Lyric 1",
+      "songId": "1",
+      "id": 1,
+      "likes": true
+    },
+    {
+      "content": "Lyric 2",
+      "songId": "1",
+      "id": 2
+    }
+  ]
+}
